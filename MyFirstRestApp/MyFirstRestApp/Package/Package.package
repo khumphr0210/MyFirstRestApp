@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="8af26aef-c057-4e74-994c-127e39e7f6dc" 
+        solutionId="8af26aef-c057-4e74-994c-127e39e7f6dc" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="MyFirstRestApp"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="6e44c7ca-8ae0-453b-ac88-07f2b752c4f8" />
+  </features>
+</package>
